@@ -56,15 +56,15 @@ npm start
 # Technologies Used
 
 
-Node.js
+- Node.js
 
-Express.js
+- Express.js
 
-MongoDB
+- MongoDB
 
-JSON Web Tokens (JWT)
+- JSON Web Tokens (JWT)
 
-TypeScript
+- TypeScript
 
 
 
