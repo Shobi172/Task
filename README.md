@@ -10,9 +10,9 @@ To run the Signup and Login API with JWT locally, follow the steps below:
 
 ## Prerequisites
 
-Node.js installed on your machine
+- Node.js installed on your machine
 
-MongoDB installed and running locally or a MongoDB Atlas account
+- MongoDB installed and running locally or a MongoDB Atlas account
 
 
 ### 1. Clone the repository:
