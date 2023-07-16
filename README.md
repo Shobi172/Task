@@ -8,7 +8,7 @@ This project implements a backend API for user signup and login functionality us
 To run the Signup and Login API with JWT locally, follow the steps below:
 
 
-### Prerequisites
+## Prerequisites
 
 Node.js installed on your machine
 
@@ -28,6 +28,7 @@ git clone https://github.com/Shobi172/Task.git
 
 
 cd backend
+
 npm install
 
 
@@ -38,7 +39,9 @@ npm install
 
 Create a .env file in the root directory of the project and provide the following environment variables:
 
+
 ACCESS_TOKEN_SECRET=your-secret-access-key
+
 REFRESH_TOKEN_SECRET=your-secret-refresh-key
 
 
